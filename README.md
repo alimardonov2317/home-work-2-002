@@ -1,0 +1,1 @@
+Ushbu loyihada [Figma](https://www.figma.com/design/UfNGBfQmwBQpEI9mAdSkx4/Untitled?node-id=0-696&node-type=frame&t=N8Z7XJiStEkFVTNN-0) saytidan bitta loyihani clone yasalgan.Ushbu loyiha html va css yordamida yozilgan.
